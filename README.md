@@ -13,7 +13,7 @@ The dataset can be found on the Kaggle website. This dataset is originally from 
 5)Model Fitting<br>
 
 # Conclusion
-Based on the feature importance
+Based on the feature importance<br>
 1)Glucose is the most important factor in determining the onset of diabetes followed by BMI and Age.<br>
 
 2)Other factors such as Diabetes Pedigree Function, Pregnancies, Blood Pressure, Skin Thickness and Insulin also contributes to the prediction.<br>
