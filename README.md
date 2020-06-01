@@ -6,14 +6,14 @@ Diabetes is a chronic condition in which the body develops a resistance to insul
 The dataset can be found on the Kaggle website. This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases and can be used to predict whether a patient has diabetes based on certain diagnostic factors. Starting off, I use Python 3.3 to implement the model. It is important to perform some basic analysis to get an overall idea of the dataset.
 
 # Task
-1)Exploratory Data Analysis (EDA)
-2)Checking for Multi collinearity
-3)Treating Outliers and Non-Normality
-4)Splitting the dataset into Training and Test data
-5)Model Fitting
+1)Exploratory Data Analysis (EDA)<br>
+2)Checking for Multi collinearity<br>
+3)Treating Outliers and Non-Normality<br>
+4)Splitting the dataset into Training and Test data<br>
+5)Model Fitting<br>
 
 # Conclusion
-1)Based on the feature importance:
-2)Glucose is the most important factor in determining the onset of diabetes followed by BMI and Age.
+Based on the feature importance
+1)Glucose is the most important factor in determining the onset of diabetes followed by BMI and Age.<br>
 
-Other factors such as Diabetes Pedigree Function, Pregnancies, Blood Pressure, Skin Thickness and Insulin also contributes to the prediction.
+2)Other factors such as Diabetes Pedigree Function, Pregnancies, Blood Pressure, Skin Thickness and Insulin also contributes to the prediction.<br>
